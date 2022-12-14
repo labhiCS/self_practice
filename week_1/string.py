@@ -1,6 +1,6 @@
 #changing case in string.
 name_0 = "abhishek lamichhane"
-name_1 = "uprndra thapa"
+name_1 = "upendra thapa"
 
 print(name_0.title())
 
